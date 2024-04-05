@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sourav279
+- 👋 Hi, I’m Sourav Saini
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞 Tech Stack- HTML CSS JS REACTJS REDUX NEXTJS NODEJS EXPRESSJS MONGODB MYSQL
+- ✉️  You can contact me at sainisourav279@gmail.com
+  
 
 <!---
 Sourav279/Sourav279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
