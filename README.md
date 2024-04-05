@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sourav Saini
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning full stack development 
 - 💞 Tech Stack- HTML CSS JS REACTJS REDUX NEXTJS NODEJS EXPRESSJS MONGODB MYSQL
 - ✉️  You can contact me at sainisourav279@gmail.com
   
