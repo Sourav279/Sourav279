@@ -43,7 +43,7 @@ Docker, Nginx, Git, GitHub, CI/CD, Postman
 - 🌍 Portfolio: https://souravsaini.in  
 - 💻 GitHub: https://github.com/Sourav279  
 - 📧 Email: sainisourav279@gmail.com  
-- 🔗 LinkedIn: (add your LinkedIn here)
+- 🔗 LinkedIn: https://www.linkedin.com/in/sourav-saini279
 
 ## 📈 Current Focus
 - Advanced React 19 & Next.js App Router  
