@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sourav Saini  
-🚀 Full Stack Web Developer | MERN & Next.js | React Specialist  
+🚀 Software Engineer | MERN & Next.js | React Specialist  
 
 I’m a B.Tech CSE graduate and a Full Stack Developer with hands-on experience in building scalable web applications, dashboards, and cloud-hosted systems. I have worked on freelance and internship projects involving modern frontend frameworks and robust backend architectures.
 
@@ -40,7 +40,7 @@ Docker, Nginx, Git, GitHub, CI/CD, Postman
 - **Home Automation Dashboard (React + Real-Time Controls)**
 
 ## 🌐 Portfolio & Links
-- 🌍 Portfolio: https://souravsaini.in  
+- 🌍 Portfolio: https://portfolio-sourav279s-projects.vercel.app  
 - 💻 GitHub: https://github.com/Sourav279  
 - 📧 Email: sainisourav279@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sourav-saini279
