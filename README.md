@@ -17,7 +17,7 @@ I’m a B.Tech CSE graduate and a Full Stack Developer with hands-on experience 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav279&layout=compact&theme=tokyonight)
 
 ## 🚀 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Sourav279&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourav279&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
