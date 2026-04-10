@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sourav Saini  
 🚀 Software Engineer | MERN & Next.js | React Specialist  
 
-I’m a B.Tech CSE graduate and a Full Stack Developer with hands-on experience in building scalable web applications, dashboards, and cloud-hosted systems. I have worked on freelance and internship projects involving modern frontend frameworks and robust backend architectures.
+I’m a B.Tech CSE graduate and a Full Stack Developer, currently working as a Software Engineer at Snet Labs, with hands-on experience in building scalable web applications, dashboards, and cloud-hosted systems. I have worked on freelance and internship projects involving modern frontend frameworks and robust backend architectures.
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering  
