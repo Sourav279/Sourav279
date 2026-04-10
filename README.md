@@ -5,9 +5,8 @@ I’m a B.Tech CSE graduate and a Full Stack Developer with hands-on experience 
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering  
-- 💼 Frontend Web Developer Intern at LivSmart Automation & Security  
+- 💼 Software Engineer at Snet Labs Pvt. Ltd.
 - 🏆 Winner – Capture The Flag (CTF), Excelsior 2022 (UIET KUK)  
-- 👨‍💻 Software Engineer  
 - 🎯 Preparing for advanced Full Stack & System Design roles  
 
 ## 📊 GitHub Stats
@@ -34,6 +33,7 @@ MongoDB, PostgreSQL, Supabase, AWS S3
 Docker, Nginx, Git, GitHub, CI/CD, Postman
 
 ## 📌 Notable Projects
+- **ShortForge (URL Shortener with Analytics Dashboard)**
 - **Hotel Guest Management System (Cloud-based, Role-based Access)**
 - **Make My Vision Shop (E-commerce Platform with Admin Panel, S3 Storage)**
 - **Auto Loan Estimator (MERN + Financial Calculations)**
